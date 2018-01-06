@@ -1,4 +1,4 @@
-URL = "https://api.telegram.org/bot%s/" % BOT_TOKEN
+URL = "https://api.telegram.org/bot%s/" % 478682565:AAG2dPlwCeg-mV9qYSOEEuRgbB1rTPK_jNQ
 MyURL = "https://example.com/hook"
 
 api = requests.Session()
